@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Decryption             |  A code to decrypt encrypted text using Caesar's Cipher             | https://github.com/Aseye-Amedofu/Decryption.git       |
+| 2 |  Text-Encryption             |  A code to encrypt text using Caesar's Cipher             | https://github.com/Aseye-Amedofu/Text-Encryption.git       |
+| 3 |  Stock-forcasting             |  An app for demand forcasting             | https://github.com/Aseye-Amedofu/Stock-Forcasting.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
