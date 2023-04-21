@@ -1,4 +1,4 @@
-cipher_text = "XYZABCDEFGHIJKLMNOPQRSTUVW"
+cipher_text = "BYZAXCDEFGHIJKLMNOPQRSTUVW"
     
     
 text = input("Enter cipher message: ").upper()
