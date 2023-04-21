@@ -1,4 +1,3 @@
-#Samuel Aseye Amedofu | samuel.aseye@azubiafrica.org | Group 10
 plain_text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     
 text = list(input("Enter plaintext message: ").upper())
