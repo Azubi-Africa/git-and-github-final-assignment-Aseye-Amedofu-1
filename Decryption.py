@@ -14,3 +14,5 @@ for i in text:
 
 print(decrypted)
 
+# Author
+# Samuel Aseye Amedofu
