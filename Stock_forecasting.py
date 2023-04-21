@@ -21,6 +21,7 @@ for month, planned_sales in monthly_sales.items():
 
 
 
-
+# Author
+# Samuel Aseye Amedofu
 
 
